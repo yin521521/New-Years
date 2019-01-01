@@ -1,0 +1,1 @@
+"use strict";require.config({paths:{bs:"./libs/better-scroll",fl:"./libs/flexible"}});
